@@ -8,7 +8,7 @@ The website can be found here: [website](https://pip.pypa.io/en/stable/).
 
 ## Versions
 
- ``` python 
+ ```
 Version 1.0.0 - Website was released 
 
 Version 1.1.0 - Updated the 'Home' page to include a welcome
