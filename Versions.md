@@ -26,6 +26,8 @@ Version 1.3.1 - Added the old/new logos to the 'About Me' page.
 
 Version 1.3.2 - Added some more detail to the Logo descriptions
                  on the 'About Me' page.
+                 
+Version 1.4.2 - I updated my 'My Work' page, Also updated a few styles on a few other pages
 ```
 
 ## Suggestions
